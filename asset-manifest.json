@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My-App/static/css/main.8d7ef9a0.css",
+    "main.js": "/My-App/static/js/main.37ba8b52.js",
+    "static/media/img-1.gif": "/My-App/static/media/img-1.83b5057310351f41dfab.gif",
+    "static/media/img-2.gif": "/My-App/static/media/img-2.a34b9f056389df27c226.gif",
+    "static/media/porsche-model.png": "/My-App/static/media/porsche-model.88cdbbc785ee6cb9151d.png",
+    "index.html": "/My-App/index.html",
+    "main.8d7ef9a0.css.map": "/My-App/static/css/main.8d7ef9a0.css.map",
+    "main.37ba8b52.js.map": "/My-App/static/js/main.37ba8b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d7ef9a0.css",
+    "static/js/main.37ba8b52.js"
+  ]
+}
